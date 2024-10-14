@@ -118,7 +118,7 @@ class COCOProcessor:
    Visualizes the original image alongside its generated mask. It loads the saved mask and displays both using `matplotlib`.
 
 
-## Usage
+## Method
 1. Load Dataset and Annotations:
 Ensure you have the COCO annotations and the image files properly linked.
 
