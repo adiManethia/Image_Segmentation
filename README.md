@@ -2,11 +2,7 @@
 
 
 ### 🦋 Butterfly Image Segmentation using Masking Techniques
-This repository contains an image segmentation project focused on using masking techniques to isolate butterfly images. The dataset was created using Google Images and augmented through Roboflow. The project demonstrates how to use Python libraries, such as OpenCV and pycocotools, to generate segmentation masks from COCO-format annotations.
-
-### Project Overview
-
-This project showcases the process of segmenting butterfly images using masking techniques. A small dataset of 7 images was collected, labeled, and augmented with Roboflow. Python-based tools, such as OpenCV and the COCO API, were used to create binary masks for image segmentation.
+This project focuses on segmenting butterfly images using masking techniques. A small dataset was collected, labeled, and augmented via `Roboflow`. Python tools like OpenCV and the COCO API were used to generate binary segmentation masks from COCO-format annotations.
 
 ## Key Components:
 1. Data Collection:
